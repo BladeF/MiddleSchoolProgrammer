@@ -9,7 +9,7 @@ I have encountered several teachers who don’t have a degree in computer scienc
 
 The first and most effective option available to you is to take a programming class. Perhaps your school district will pay for you to audit a class at the local university, where you can learn in a classical environment that many people learn to program in. If this option is not available to you, there are also several online resources of high-quality. Universities such as Stanford and MIT offer many of their classes online and free of charge[^fn1][^fn2]. Google offers an in-depth guide for growing your technical skills[^fn3]. E-learning companies such as Udacity and Udemy offer high-quality courses on a variety of subjects[^fn4][^fn5]. These are all resources that I use almost every day to continue to grow my own content knowledge, and so should you. The learning journey never ends in the technical world.
 
-[^fn1]: https://online.stanford.edu
+[^fn1]: (https://online.stanford.edu)
 [^fn2]: https://ocw.mit.edu/index.htm
 [^fn3]: https://techdevguide.withgoogle.com
 [^fn4]: https://www.udacity.com
