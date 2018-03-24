@@ -10,10 +10,10 @@ I have encountered several teachers who don’t have a degree in computer scienc
 The first and most effective option available to you is to take a programming class. Perhaps your school district will pay for you to audit a class at the local university, where you can learn in a classical environment that many people learn to program in. If this option is not available to you, there are also several online resources of high-quality. Universities such as Stanford and MIT offer many of their classes online and free of charge[^fn1][^fn2]. Google offers an in-depth guide for growing your technical skills[^fn3]. E-learning companies such as Udacity and Udemy offer high-quality courses on a variety of subjects[^fn4][^fn5]. These are all resources that I use almost every day to continue to grow my own content knowledge, and so should you. The learning journey never ends in the technical world.
 
 [^fn1]: [https://online.stanford.edu](https://online.stanford.edu)
-[^fn2]: https://ocw.mit.edu/index.htm
-[^fn3]: https://techdevguide.withgoogle.com
-[^fn4]: https://www.udacity.com
-[^fn5]: https://www.udemy.com
+[^fn2]: [https://ocw.mit.edu/index.htm](https://ocw.mit.edu/index.htm)
+[^fn3]: [https://techdevguide.withgoogle.com](https://techdevguide.withgoogle.com)
+[^fn4]: [https://www.udacity.com](https://www.udacity.com)
+[^fn5]: [https://www.udemy.com](https://www.udemy.com)
 
 
 Another important task to undertake is getting familiar with the software world. Being able to program is only a portion of the job; knowing what to do with that skill set is the other side of the coin. In an ideal world, you would spend some time “in the industry”. This could happen as an intern, in a shadowing type arrangement, or even simply by taking part in an online community.
@@ -24,10 +24,10 @@ Now that have some skills and resources to fill in your knowledge gaps, it’s t
 Once you have tried writing some programs on your own, move on to analyzing the work of others. GitHub is the leading code-sharing platform, hosting code from complete amateurs to the Linux kernel source code[^fn9]. You can browse by topic, language, and collection, search users and projects, and share your own code. Find a project in your language of choice and begin to pick it apart. Something I do when I encounter a new project is I will print out the code, sit down with a pencil and highlighter, and begin to annotate. I will highlight important bits of code and write down what they do or questions I may have, bracket off key words, and draw lines connecting segments of code. This helps me to develop a deep understanding of what this code is doing, including what the job of each gear in the system is.
 The final step in this process is taking someone else’s code and modifying it. This can mean altering its current functionality or extending it. This could even be the same program that you chose from the previous paragraph. This gives you practice in understanding code that you didn’t write and writing code yourself in the same project. I give you this challenge because, in the industry, you are more often than not working with code someone else wrote rather than writing everything yourself. Code analysis is just as important as code generation in these circumstances.
 
-[^fn6]: https://www.codechef.com
-[^fn7]: https://www.hackerrank.com
-[^fn8]: https://www.topcoder.com
-[^fn9]: https://github.com
+[^fn6]: [https://www.codechef.com](https://www.codechef.com)
+[^fn7]: [https://www.hackerrank.com](https://www.hackerrank.com)
+[^fn8]: [https://www.topcoder.com](https://www.topcoder.com)
+[^fn9]: [https://github.com](https://github.com)
 
 I give the non-programmer one final note in this section about content knowledge: this is a never-ending process. Just as a scientist never stops conducting experiments, the musician never stops practicing, and the author never stops writing, so too must the programmer never stop programming. Staying current on the news, writing code, picking apart other’s code, modifying projects, these are all daily aspects of the programmer’s life. While they may not be the life of a middle schooler, it could be someday, and you need to be the model.
 
@@ -39,7 +39,7 @@ You may be asking yourself, “What on Earth does that mean?” This means that 
 
 The next task is to choose appropriate topics. The next chapter will take a much deeper look into this idea, so I will be brief. You must choose topics that are developmentally appropriate for the middle schooler, and how to explain higher level concepts that can’t be skipped in an appropriate way. For example, you don’t want to be teaching middle school students about the fine details of how programming languages are made, such as a compiled versus interpreted languages or strongly versus weakly typed. These are topics that are beyond middle schoolers and not developmentally appropriate. Middle school students also don’t need to know that arrays/lists are sequential memory locations that use a pointer to move from index to index. However, they will need to know that arrays/lists allow you to group data together under one label. Spiraling your curriculum, and this spiraling can occur across grades, will ensure those details are touched upon eventually[^fn10].
 
-[^fn10]: Look up Jerome Bruner’s Spiral Curriculum ideology. https://eric.ed.gov/?id=ED538282
+[^fn10]: Look up Jerome Bruner’s [Spiral Curriculum ideology](https://eric.ed.gov/?id=ED538282).
 
 Finally, you will need to gain pedagogical knowledge. In order to become an effective teacher, you must study teaching and learning in some aspect. The best solution is to audit some education classes at a local university. If you are able, take educational psychology, classroom management, and child development. In my opinion, these are the most critical subjects for a teacher to know. Sometimes this is not possible, so to try to find and attend professional developments and/or workshops on these topics. Since these are the core pillars that support the teacher, there are many opportunities all around the country.
 Another great tactic for gaining knowledge is to observe other teachers. Before I became a programming teacher, I taught middle and high school orchestra. I had worked with middle school students for many years and felt quite comfortable in that environment. However, when I started teaching middle school programming I realized that programming classes are a completely different beast with its own set of challenges. My first month or so I had a lot of difficulties in the classroom, so I talked with my colleagues and set up observations. I would go to their classrooms, which often had some of my students, and observe how they taught and managed their classrooms. I was able to learn a lot from this, and it gave me plenty of new tools for me to implement in my own space.
