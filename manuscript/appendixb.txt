@@ -10,7 +10,7 @@ Gather code samples to write on the board or display on a screen and prepare a s
 
 *If*
 
-{lang=python}
+    {lang=python}
     if today == “Saturday”:
         print(“Sleep in!”)
 
