@@ -22,18 +22,18 @@ Now that you know what to grade, how exactly do you grade it? How you measure so
 ### Checklists
 Using the checklist with beginners is a way to measure those broad strokes of knowledge mentioned above. Using the same example, here is a sample checklist I would use:
 
-* | You submitted a program             | YES | NO |
-* | Your program can add two numbers    | YES | NO |
-* | Your program uses variables         | YES | NO |
+| You submitted a program             | YES | NO |
+| Your program can add two numbers    | YES | NO |
+| Your program uses variables         | YES | NO |
 
 These are simple yes-or-no questions, and the implementation details are intentionally left out. At this level, implementation is not as important as other milestones, such as completing the program or demonstrating a general understanding of the topic. Checklists allow you to focus on these important points. Building up the morale of a student in her early stages of program can make more of an impact than having perfect implementation
 
 ### Scales
 Scales are a fantastic way to check the knowledge of tools. Intermediate programmers should be focusing more on implementation and getting to know the tools available to them. There are varying degrees of understanding now, and it is important to reflect that. I have my students functionize programs, where they take a pure procedural program, find repeated code, and make functions. Here is what a general scale looks like for this type of assignment, where 0 is “none”, 1 is “somewhat”, and 2 is “well”:
 
-* | You identify repeated code               | 0 | 1 | 2 |
-* | You move repeated code into functions    | 0 | 1 | 2 |
-* | You call the appropriate functions       | 0 | 1 | 2 |
+| You identify repeated code               | 0 | 1 | 2 |
+| You move repeated code into functions    | 0 | 1 | 2 |
+| You call the appropriate functions       | 0 | 1 | 2 |
 
 This scale can easily be modified for different point values, have more items added to it, and be a part of a larger list. Using this scale shows your student where exactly he needs to make some improvements. This also allows you, as the teacher, to notice trends across all your students and see if there are gaps in what you are teaching. Grades are just as much for you to learn from as they are for the student.
 
