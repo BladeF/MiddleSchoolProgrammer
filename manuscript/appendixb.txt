@@ -10,11 +10,9 @@ Gather code samples to write on the board or display on a screen and prepare a s
 
 *If*
 
-{linenos=off, lang=python}
-~~~~~~~~
-if today == “Saturday”:
-    print(“Sleep in!”)
-~~~~~~~~
+{lang=python}
+    if today == “Saturday”:
+        print(“Sleep in!”)
 
 *If/Else*
 
