@@ -1,0 +1,50 @@
+# Appendix A: Curriculum Guides
+
+In this appendix, we will take a look at some ideas and guides for making your own curriculum. With so many options for language, length, and level, it can help to have a starting point. I will break things down by level, giving my suggestions for each. These are by no means hard and fast rules, but they have served me well so far. I have tried other ideas, but I always seem to come home to these points. As mentioned before, starting with a book and building curriculum off of it is a great tool for success, so I will be listing many books for you to use and reference.
+
+## Level 1 - Young Beginners
+These are your younger students who have never programmed before. I specifically mention both young and beginner here, as I tend to run this class with fifth and sixth-grade students rather than seventh- or eighth-grade students. There is a maturity and background knowledge divide that simply can be rather difficult to cross.
+
+### Scratch
+I find that Scratch, a programming environment developed at MIT, is the perfect tool for teaching this level[^fn15]. It has been around for a while and has a strong community. It also happens to be used for the popular Hour of Code event, or at least a similar block-based environment. When teaching a Scratch course, I like the book “Learn to Program with Scratch” by Majed Marji[^fn16]. This book does a great job of providing lots of examples and challenges for students, and it covers many major concepts in programming: variables, functions, events, conditions, loops, strings, and lists.
+I like to make a shorter class out of level one students. I find that a quarter (roughly nine weeks) class works best. You can cover the material in that time, the students remain interested, and you can reach a lot of students each year. I would not go any longer than a semester, and even that is pushing the limits. You would most likely run out of appropriate material for students at this level in a semester, and you don’t want to overload the students with information.
+
+[^fn15]: [https://scratch.mit.edu](https://scratch.mit.edu)
+[^fn16]: [https://nostarch.com/learnscratch](https://nostarch.com/learnscratch)
+
+## Level 2 - Older Beginners
+You may have some students that decide to try programming later in life. A Scratch class may not be the most appropriate environment for the seventh- or eighth-grade student. They have a stronger math and reasoning background, are a little more mature, and can handle more information. I usually require students to take this class before moving on to higher level classes. Students will learn how to write in a programming language that is based on text, which is how most programming is done in the professional world of software development. Without the foundation of text-based programming built in this class, students will not be able to succeed in the higher level classes.
+
+### Python
+Python is my preferred language at this level[^fn17]. Python is a scripting language that is widely used in the professional development world, has a very strong community base, and is robust and powerful. Python also provides several modules that are useful for teaching beginning programming, such as Turtle. My preferred book is “Teach Your Kids to Code” by Bryson Payne[^fn18]. I have taught a beginning Python class with the entire book, but prefer to only use the first seven chapters. These chapters focus on concepts such as variables, data types, loops, conditions, graphics, functions, and events. Notice that most of these concepts are also taught in Scratch.
+Anything from a quarter to a semester is a good length for this course. You can dive into details, have students making several programs, and cover a lot of material. Should you go with the longer option, know that you may need to supplement the material from the book. There are several Python project books that can be of use in this situation[^fn19].
+
+[^fn17]: [https://www.python.org/](https://www.python.org/)
+[^fn18]: [https://nostarch.com/teachkids](https://nostarch.com/teachkids)
+[^fn19]: [https://nostarch.com/inventwithpython](https://nostarch.com/inventwithpython), [https://nostarch.com/programwithminecraft](https://nostarch.com/programwithminecraft), [https://nostarch.com/missionpython](https://nostarch.com/missionpython)
+
+## Level 3 - Intermediate Programmers
+The world is now going to expand at a fantastic rate. Once your students have learned the basics, they are going to be able to apply those new skills is a variety of contexts. Simple video games and web applications are great, accessible topics for the intermediate programmer to dive into. These will be your seventh- and eighth-grade students who have taken your level two class. I do not encourage students to go straight from level one to level three, as the second level course will build a solid foundation of text-based programming languages (as opposed to block-based) and further their understanding of programming fundamentals in this new context.
+
+### Video Games
+Most middle schoolers that I have taught will, at some point, want to program a video game. This is across the board, all genders, ability levels, and backgrounds. Due to my aforementioned affinity for Python, I like to teach a video game class using Python and PyGame. I like to use “Invent Your Own Computer Games with Python” by Al Sweigart alongside the latter chapters of “Teach Your Kids to Code”[^fn20]. This book can act as a great refresher for the basics of Python, as it starts by assuming little knowledge of the language. You start by making simple text-based games, such as hangman, before moving on to more graphical games with PyGame.
+
+[^fn20]: [https://nostarch.com/inventwithpython](https://nostarch.com/inventwithpython)
+
+### JavaScript and Web
+It seems like all kids are on the Internet nowadays, no matter how young. They are immersed in it, but this can be used for good! Teaching students about JavaScript and the Internet can open up a world of information, and I often slip many lessons on safety and information reliability into this course. “JavaScript for Kids” by Nick Morgan walks you through the basics of JavaScript, making web pages with HTML, libraries like JQuery, and how to make websites interactive[^fn21]. Students can now take the basic skills that they learned in the beginner classes and apply them to a more real-world context.
+
+[^fn21]: [https://nostarch.com/javascriptforkids](https://nostarch.com/javascriptforkids)
+
+## Level 4 - Advanced Programmers
+These are the top of the top students. Here you will find dedicated programmers who really want to know the field. You may or may not have taught these students previously, but they will have taken the prerequisite classes and want to continue their programming education. There are two main topics that I would teach: programming more advanced apps and the field of computer science.
+
+### iPhone Development
+Making a mobile app is more advanced than a simple web app. You have to truly understand how programming languages work, including the how and why of things like control structures, data types, functions, and events. This class is a way for your advanced students to apply their knowledge to a real product that professional developers use. “Coding iPhone Apps for Kids” by Gloria Winquist and Matt McCarthy walks you through this process[^fn22]. You will revisit the fundamental concepts, learn how they work in Swift, and apply them to real-world problems.
+
+[^fn22]: [https://nostarch.com/iphoneappsforkids](https://nostarch.com/iphoneappsforkids)
+
+### Computer Science Discoveries
+The field of computer science in more than simply writing programs. Some of your advanced students may be interested in learning about the other aspects of computer science. Code.org offers a course called “Computer Science Discoveries” that dives into various fields in computer science[^fn23]. You touch on topics like web development and animation, but students will also learn about how to solve problems, the design process, the relationship between software and hardware, and how computers and data impact society.
+
+[^fn23]: [https://code.org/educate/csd](https://code.org/educate/csd)
