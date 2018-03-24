@@ -127,7 +127,7 @@ In a mixed environment, I try to be sensitive to the different developmental lev
 
 **Solution Flowchart**
 
-{height="30%", width="30%"}
+{height="50%", width="50%"}
 ![Flowchart](images/flowchart.png)
 
 {pagebreak}
