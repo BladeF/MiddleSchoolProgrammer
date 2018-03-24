@@ -6,7 +6,7 @@ A lot can be said about the physical structure, arrangement, and orientation of 
 
 ### Configuration One
 
-![Configuration 1](images/diagram1.png)
+![Configuration 1](images/conf1.png)
 
 My ideal and favorite configuration is a horseshoe and center table. In the diagram above, the three rectangles represent individual desks for students to sit at. The chairs would be on the inside of the desks, allow you to see all screens from the front of the classroom. This allows you to monitor the work happening and potential distractions occurring.
 You also have a table in the center of the room. I would always make my students leave their computers at the desks if it was a class that brought their own devices. The center table was the place to talk and collaborate. You could have a separate set of chairs for the big table, or, more frugally, use the same chairs from the outer desks.
@@ -14,7 +14,7 @@ This is the configuration I have used with great success. When I was giving note
 
 ### Configuration Two
 
-![Configuration 2](images/diagram2.png)
+![Configuration 2](images/conf2.png)
 
 In this second configuration, you also separate the learning area from the working area. On the left, you see a series of rectangles that represent desks. This is where you can teach the students with a board and have them taking notes. I would encourage you to not allow computers in this area. To the right, you have circle tables that can help group work. These tables are where students can write code and collaborate with their peers. You can also have a better chance of catching any non-academic activity happening on screen at the circle tables over the desks.
 
