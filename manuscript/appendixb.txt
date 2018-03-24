@@ -2,10 +2,10 @@
 In this appendix you will find a sample lesson and assignment. This is the general format I use for almost all lessons and assignments. Feel free to use these as they are or to modify the contents to fit your situation.
 
 ## Lesson: If, If/Else, and If/Elif
-**Goal**:
+**Goal**:  
 This lesson is about teaching conditions and the different if statements in Python. Students will be able to write simple conditions and if statements by the end of the lesson.
 
-**Prep**:
+**Prep**:  
 Gather code samples to write on the board or display on a screen and prepare a series of yes/no questions. The questions will be used in the “Line Game”, where students will cross a line, real or imaginary, if they can answer the question with a yes. Set up a space where there is room to have two groups with space in between (this may be outside, in a hall, or in the room after moving desks). Using a long piece of masking tape makes a good temporary line.
 
 *Code Examples*:
