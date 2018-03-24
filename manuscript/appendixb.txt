@@ -83,10 +83,10 @@ Recall & Review:
 10. Show the first of the if/elif examples on the board and ask the students what the result will be if the grade is 95.
 11. Run this code where grade is 95. You will see a result of:
 
-    You have an A
-    You have a B
-    You have a C
-    You have a D
+    You have an A  
+    You have a B  
+    You have a C  
+    You have a D  
 
 12. Explain to the students that if statements don’t work together. Walk through the code by hand, checking each condition. Since all the conditions are true, each if statement will run.
 13. Show the second if/elif example and explain that using elif, you can pick one option out of many, where only one of the statements will be true and run.
