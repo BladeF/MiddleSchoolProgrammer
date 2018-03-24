@@ -1,0 +1,43 @@
+# Chapter Six: Grading
+At some point, you have to grade something. Grading can seem like a tedious task that only serves to bring down the students. You may be thinking, “Why give grades? It's all about learning and making stuff.” While this may be true, grading is a way to measure student progress and give feedback. It is a powerful tool for both the teacher and the student, but it is also a responsibility that must be taken seriously.
+
+## What to Grade
+What to grade can be a hard problem to tackle, especially at the middle school level. Do you look at the program syntax? What about the functionality? Should you grade the efficiency of the code, or how well the students implement data and control structures? These are all questions that have, or will, cross your mind at some point. The answer lies in the level that you are teaching.
+
+### Beginning Programmers
+For beginning programmers, the fact that they write code at all is the most important accomplishment. At the beginning middle school level, it is not critical that they understand all of the details of a program. Look for broad concepts and overarching ideas rather than fine details. For example, if your sixth-grade class is learning about operators, don’t worry about the simplicity of using a += b compared to a = a + b. While the first option is more efficient and what most professionals would do, the most important thing is that they are able to write code to add two variables together.
+When I have beginning students submit programs, there are usually some errors. This is especially true with young beginners. More often than not, I don’t count this against them. I only take points away if it’s obvious that a student put in no effort. You will develop a sense of your students over time and know the ones who are trying hard and just didn’t catch all the mistakes along the way versus the students who don’t care and didn’t bother to fix problems.
+
+### Intermediate Programmers
+Once your students have progressed past the beginning stages, you can start spiraling inwards to look for finer details. At this stage, I usually start looking for implementation. First and foremost, does the code run? Am I able to execute all, or at least most, of the code? This is now a critical step for the intermediate programmer to accomplish. They must implement everything correctly and have working code.
+I also look at the how of the implementation. If the students are learning functions, did they use functions in their programs? The brush strokes are getting smaller, and the intermediate programmer must use what I tell them to use. A student will almost always say he can write the program without using functions, or control structures, or modules/APIs, or whatever else you are trying to teach. This may or may not be true, but the intermediate programmer must learn to use all of the tools at her disposal, not just the one that she knows the best. A wrench can’t turn a screw, so she must learn to use the screwdriver.
+
+### Advanced Programmers
+Advanced programmers are able to understand the details of code, so they are better able to focus on efficiency and artistry. Once a student reaches this point, he knows that using the += operator is more efficient and should be using it wherever appropriate. He also knows loops can drastically reduce the amount of code written, and can potentially differentiate which type of loop to use. There is an artistry to writing code, just as there is to painting or music. You can tell when a painting is done by someone who understands paint and brush, and you can tell when code has been written by someone who understands the medium.
+The advanced programmer knows her toolbox well. You should now be grading her choice of tool in each situation and how well she wields it. There is no question that she knows how to use a screwdriver or a drill, but she must now learn the time and place for each. Both are used in similar situations, yet with subtle differences. When should a list be used over a map? Or a for over a foreach? These are the skills that you must instill and monitor.
+
+## How to grade
+Now that you know what to grade, how exactly do you grade it? How you measure something is an important choice. This can also depend on the context that you are teaching in. When I am teaching in a mixed-grade or beginner class, I will often use a checklist rubric. If my class is more segregated and working at an intermediate level, I will use a scale for each concept or tool I wish to be implemented. Advanced programmers are evaluated on tool choice, with more of a critique style of grading as compared to earning points.
+
+### Checklists
+Using the checklist with beginners is a way to measure those broad strokes of knowledge mentioned above. Using the same example, here is a sample checklist I would use:
+
+* You submitted a program					YES	NO
+* Your program can add two numbers			YES	NO
+* Your program uses variables				YES	NO
+
+These are simple yes-or-no questions, and the implementation details are intentionally left out. At this level, implementation is not as important as other milestones, such as completing the program or demonstrating a general understanding of the topic. Checklists allow you to focus on these important points. Building up the morale of a student in her early stages of program can make more of an impact than having perfect implementation
+
+### Scales
+Scales are a fantastic way to check the knowledge of tools. Intermediate programmers should be focusing more on implementation and getting to know the tools available to them. There are varying degrees of understanding now, and it is important to reflect that. I have my students functionize programs, where they take a pure procedural program, find repeated code, and make functions. Here is what a general scale looks like for this type of assignment, where 0 is “none”, 1 is “somewhat”, and 2 is “well”:
+
+* You identify repeated code				0	1	2
+* You move repeated code into functions		0	1	2
+* You call the appropriate functions		0	1	2
+
+This scale can easily be modified for different point values, have more items added to it, and be a part of a larger list. Using this scale shows your student where exactly he needs to make some improvements. This also allows you, as the teacher, to notice trends across all your students and see if there are gaps in what you are teaching. Grades are just as much for you to learn from as they are for the student.
+
+### Critique
+This type of grading can be difficult to describe, partially because it can be very subjective. You can always implement checklists and scales as part of the critique, but there is another element: rationalization. When critiquing my students, I will often have them explain why they did what they did. This can be in a presentation, an interview, or an essay. I want to know what the student was thinking and why he made the choices he did. Why did he use a map over a list? Why that range in the for loop? Here, you are looking for situational understanding, which can often lead to multiple correct answers. Giving the student the responsibility of rationalizing makes her be aware of the program, its context, and what tools fit in that situation.
+
+Grading can be a difficult task for the teacher. There are many things to grade and many ways to do it. However, it is truly a necessary task and responsibility. You use grades to monitor student progress, give feedback, and even assess your own teaching. Grading can also be very personal, so take the time out of your journey to learn more about grading. The more you know, the greater your teacher toolbox is and you can serve your students more effectively.
