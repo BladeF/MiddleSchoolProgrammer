@@ -15,3 +15,4 @@ chapter7.txt
 {backmatter}
 
 appendixa.txt
+appendixb.txt

@@ -1,0 +1,101 @@
+#Appendix B: Sample Lesson and Assignment
+In this appendix you will find a sample lesson and assignment. This is the general format I use for almost all lessons and assignments. Feel free to use these as they are or to modify the contents to fit your situation.
+
+## Lesson: If, If/Else, and If/Elif
+**Goal**:
+This lesson is about teaching conditions and the different if statements in Python. Students will be able to write simple conditions and if statements by the end of the lesson.
+
+**Prep**:
+Gather code samples to write on the board or display on a screen and prepare a series of yes/no questions. The questions will be used in the “Line Game”, where students will cross a line, real or imaginary, if they can answer the question with a yes. Set up a space where there is room to have two groups with space in between (this may be outside, in a hall, or in the room after moving desks). Using a long piece of masking tape makes a good temporary line.
+
+*If*
+
+{linenos=off, lang="python"}
+~~~~~~~~
+if today == “Saturday”:
+    print(“Sleep in!”)
+
+*If/Else*
+{linenos=off, lang="python"}
+if num % 2 == 0:
+    print(“Num is even”)
+else:
+    print(“Num is odd”)
+~~~~~~~~
+
+*If/Elif*
+
+{linenos=off, lang="python"}
+~~~~~~~~
+# Example 1
+if grade >= 90:
+    print(“You have an A”)
+if grade >= 80:
+    print(“You have a B”)
+if grade >= 70:
+    print(“You have a C”)
+if grade >= 60:
+    print(“You have a D”)
+else:
+    print(“You have an F”)
+
+# Example 2
+if grade >= 90:
+    print(“You have an A”)
+elif grade >= 80:
+    print(“You have a B”)
+elif grade >= 70:
+    print(“You have a C”)
+elif grade >= 60:
+    print(“You have a D”)
+else:
+    print(“You have an F”)
+~~~~~~~~
+
+*Sample Questions*
+
+* “Cross the line if…”
+    * “You are wearing blue today.”
+    * “You are not wearing sandals.”
+    * “You have younger and older siblings.”
+    * “You are younger than 14.”
+    * “You are 14 or older.”
+
+**Plan for the Day**:
+* “Today we are going to be learning how to only run certain blocks of our code at a time. To start, we’re going to play a game. Then we’ll come back and take some notes.”
+
+Recall & Review:
+* Booleans
+    * True/False values; can use boolean operators (<, >, <=, >=, ==, !=) to compare values and make expressions; can use logical operators (and, or, not) to combine expressions
+
+**Meat**:
+1. Begin by review boolean values; the main points needed are listed above.
+2. Have the students move to the designated space and form a group on one side of the line.
+3. Explain the rules of the game (students will cross the line if they can answer yes to your question), demonstrating once or twice.
+4. Play through several rounds of the line game. It can be fun to let one of the kids run the game after a few rounds and they have a better understanding of how it works.
+5. Come back to the classroom and write/display the if code example on the board.
+6. Tell the students that the questions were conditions that could be true or false. If they answered yes, then the condition is true. For the example on the board, the question is “Is today Saturday?” and is written in code as today == “Saturday”.
+7. Explain that if statements are used when you are looking for one thing that may or may not happen and only run when the condition is true. In the example, if the day is Saturday, print out the message. If it is not Saturday, do nothing. This is exactly like the line game, where they didn’t cross the line if they answered no.
+8. Next, show the if/else example.
+9. Explain that sometimes you always want something to happen. You will pick one of two options, but something will always happen. If the condition is true, you will run the code in the if statement. For everything else, the code in the else branch will run. In the example, if the number is even (num MOD 2 will give you a result of 0 or 1, with 0 being even and 1 odd) you will print the message “the number is even”. If a number is not even, it must be odd, so you will print the message “the number is odd”. If/else if use when you are looking for one of two options and always want something to happen.
+10. Show the first of the if/elif examples on the board and ask the students what the result will be if the grade is 95.
+11. Run this code where grade is 95. You will see a result of:
+	“You have an A”
+	“You have a B”
+	“You have a C”
+	“You have a D”
+12. Explain to the students that if statements don’t work together. Walk through the code by hand, checking each condition. Since all the conditions are true, each if statement will run.
+13. Show the second if/elif example and explain that using elif, you can pick one option out of many, where only one of the statements will be true and run.
+14. Run through the second example with grades of 95, 85, 75, 65, and 55 and see what the result of each is.
+
+**Recap**:
+* Conditions are made up of boolean expressions inside of an if statement
+* If statements are used to look for conditions, with three types of statements:
+    * If statements are used when looking for one condition that may or may not happen
+    * If/else statements are used when you want one of two things to happen
+    * If/elif statements are used when you are looking for one option out of many
+
+**Potential Questions and Problems**:
+* Some students might need several examples to really understand how each type of statement works. Prepare multiple examples to have on hand if students ask.
+* If you have student leaders for the line game, you need to pay close attention to their conditions. The conditions might not be appropriate or understandable, so you will need to intervene or clarify.
+* Students may ask about booleans and how to make conditions. Have examples on hand in case you need review material during the recall.
