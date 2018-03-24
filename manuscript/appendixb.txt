@@ -105,3 +105,20 @@ Recall & Review:
 * Some students might need several examples to really understand how each type of statement works. Prepare multiple examples to have on hand if students ask.
 * If you have student leaders for the line game, you need to pay close attention to their conditions. The conditions might not be appropriate or understandable, so you will need to intervene or clarify.
 * Students may ask about booleans and how to make conditions. Have examples on hand in case you need review material during the recall.
+
+## Assignment: Rock, Paper Scissors
+This assignment is given later in the course, once the basics have been covered. When giving this assignment, students should feel comfortable with basic Python, input/output, conditions, loops, and functions. By this point, I am starting to talk about good programming practices. This assignment focuses on planning first rather than just sitting down and going wild on the keyboard. The tool I am using here is flowcharts, which show the logical progression of events through processes and decisions. The handout, flowchart, and solution code can be found below.
+This specific worksheet was made for a mixed sixth-eighth grade Level 2 class. The grading rubric is a mix between scales and a checklist. This allows me to have some flexibility with grading the different levels of students in one environment that match the differentiated teaching. For the younger students, I can use the rubric simply as a checklist: did they meet that requirement? For the older students, the points allow me to get a little more specific with their grading: did they write good code that met the requirement?
+In a mixed environment, I try to be sensitive to the different developmental levels that are present in one space. With the younger students, they might not be at a level where they can think in a more abstract way. This can lead to the students having difficulties evaluating the “goodness” of code. For example, a sixth grade student may understand that she needs to write a series of if/elif statements to evaluate a turn. However, she might not be able to discern on her own that you can use logical operators (and, or) to combine conditions to reduce the number of if/elif statements needed, or that putting this code into a function can give the program a better structure. An eighth grader is in a better place developmentally to be able to discern this on his own. Having a mixed rubric means I can address this without having completely separate assignments.
+
+**Handout**
+
+![Page 1](images/handout1.png)
+![Page 2](images/handout2.png)
+
+**Solution Flowchart**
+
+![Flowchart](images/flowchart.png)
+
+**Solution Code**
+<<[RockPaperScissors.py](code/rockPaperScissors.py)
