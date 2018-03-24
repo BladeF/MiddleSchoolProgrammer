@@ -6,7 +6,7 @@ In this appendix you will find a sample lesson and assignment. This is the gener
 This lesson is about teaching conditions and the different if statements in Python. Students will be able to write simple conditions and if statements by the end of the lesson.
 
 **Prep**:  
-Gather code samples to write on the board or display on a screen and prepare a series of yes/no questions. The questions will be used in the “Line Game”, where students will cross a line, real or imaginary, if they can answer the question with a yes. Set up a space where there is room to have two groups with space in between (this may be outside, in a hall, or in the room after moving desks). Using a long piece of masking tape makes a good temporary line.
+Gather code samples to write on the board or display on a screen and prepare a series of yes/no questions. The questions will be used in the "Line Game", where students will cross a line, real or imaginary, if they can answer the question with a yes. Set up a space where there is room to have two groups with space in between (this may be outside, in a hall, or in the room after moving desks). Using a long piece of masking tape makes a good temporary line.
 
 *Code Examples*:
 
@@ -53,16 +53,16 @@ else:
 
 *Sample Questions*
 
-* “Cross the line if…”
-  - “You are wearing blue today.”
-  - “You are not wearing sandals.”
-  - “You have younger and older siblings.”
-  - “You are younger than 14.”
-  - “You are 14 or older.”
+* "Cross the line if…"
+  - "You are wearing blue today."
+  - "You are not wearing sandals."
+  - "You have younger and older siblings."
+  - "You are younger than 14."
+  - "You are 14 or older."
 
 **Plan for the Day**:
 
-* “Today we are going to be learning how to only run certain blocks of our code at a time. To start, we’re going to play a game. Then we’ll come back and take some notes.”
+* "Today we are going to be learning how to only run certain blocks of our code at a time. To start, we're going to play a game. Then we'll come back and take some notes."
 
 Recall & Review:
 
@@ -76,10 +76,10 @@ Recall & Review:
 3. Explain the rules of the game (students will cross the line if they can answer yes to your question), demonstrating once or twice.
 4. Play through several rounds of the line game. It can be fun to let one of the kids run the game after a few rounds and they have a better understanding of how it works.
 5. Come back to the classroom and write/display the if code example on the board.
-6. Tell the students that the questions were conditions that could be true or false. If they answered yes, then the condition is true. For the example on the board, the question is “Is today Saturday?” and is written in code as today == “Saturday”.
-7. Explain that if statements are used when you are looking for one thing that may or may not happen and only run when the condition is true. In the example, if the day is Saturday, print out the message. If it is not Saturday, do nothing. This is exactly like the line game, where they didn’t cross the line if they answered no.
+6. Tell the students that the questions were conditions that could be ____true or false____. If they answered yes, then the condition is true. For the example on the board, the question is "Is today Saturday?" and is written in code as today == "Saturday".
+7. Explain that if statements are used when you are looking for ____one thing that may or may not happen____ and only run when ____the condition is true____. In the example, if the day is Saturday, print out the message. If it is not Saturday, do nothing. This is exactly like the line game, where they didn't cross the line if they answered no.
 8. Next, show the if/else example.
-9. Explain that sometimes you always want something to happen. You will pick one of two options, but something will always happen. If the condition is true, you will run the code in the if statement. For everything else, the code in the else branch will run. In the example, if the number is even (num MOD 2 will give you a result of 0 or 1, with 0 being even and 1 odd) you will print the message “the number is even”. If a number is not even, it must be odd, so you will print the message “the number is odd”. If/else if use when you are looking for one of two options and always want something to happen.
+9. Explain that sometimes you ____always want something to happen____. You will pick ____one of two options____, but something will always happen. ____If____ the condition is true, you will run the code in the if statement. For everything ____else____, the code in the else branch will run. In the example, if the number is even (num MOD 2 will give you a result of 0 or 1, with 0 being even and 1 odd) you will print the message "the number is even". If a number is not even, it must be odd, so you will print the message "the number is odd". If/else if use ____when you are looking for one of two options____ and ____always want something to happen____.
 10. Show the first of the if/elif examples on the board and ask the students what the result will be if the grade is 95.
 11. Run this code where grade is 95. You will see a result of:
 
@@ -88,17 +88,17 @@ Recall & Review:
     You have a C  
     You have a D  
 
-12. Explain to the students that if statements don’t work together. Walk through the code by hand, checking each condition. Since all the conditions are true, each if statement will run.
-13. Show the second if/elif example and explain that using elif, you can pick one option out of many, where only one of the statements will be true and run.
+12. Explain to the students that if statements don't work together. Walk through the code by hand, checking each condition. Since all the conditions are true, each if statement will run.
+13. Show the second if/elif example and explain that using elif, you can pick ____one option out of many____, where only one of the statements will be true and run.
 14. Run through the second example with grades of 95, 85, 75, 65, and 55 and see what the result of each is.
 
 **Recap**:
 
 * Conditions are made up of boolean expressions inside of an if statement
 * If statements are used to look for conditions, with three types of statements:
-  - If statements are used when looking for one condition that may or may not happen
-  - If/else statements are used when you want one of two things to happen
-  - If/elif statements are used when you are looking for one option out of many
+  * If statements are used when looking for one condition that may or may not happen
+  * If/else statements are used when you want one of two things to happen
+  * If/elif statements are used when you are looking for one option out of many
 
 **Potential Questions and Problems**:
 
@@ -109,12 +109,12 @@ Recall & Review:
 {pagebreak}
 
 ## Assignment: Rock, Paper Scissors
-This assignment is given later in the course, once the basics have been covered. When giving this assignment, students should feel comfortable with basic Python, input/output, conditions, loops, and functions. By this point, I am starting to talk about good programming practices. This assignment focuses on planning first rather than just sitting down and going wild on the keyboard. The tool I am using here is flowcharts, which show the logical progression of events through processes and decisions. The handout, flowchart, and solution code (also online[^fn24]) can be found below.
+This assignment is given later in the course, once the basics have been covered. When giving this assignment, students should feel comfortable with basic Python, input/output, conditions, loops, and functions. By this point, I am starting to talk about good programming practices. This assignment focuses on planning first rather than just sitting down and going wild on the keyboard. The tool I am using here is flowcharts, which show the logical progression of events through processes and decisions. The handout, flowchart, and solution code (also online[^fn25]) can be found below.
 
-[^fn24]: [https://gist.github.com/BladeF/2e4c2e8f13b50aedfb41c86385dfd73c](https://gist.github.com/BladeF/2e4c2e8f13b50aedfb41c86385dfd73c)
+[^fn25]: [https://gist.github.com/BladeF/2e4c2e8f13b50aedfb41c86385dfd73c](https://gist.github.com/BladeF/2e4c2e8f13b50aedfb41c86385dfd73c)
 
 This specific worksheet was made for a mixed sixth-eighth grade Level 2 class. The grading rubric is a mix between scales and a checklist. This allows me to have some flexibility with grading the different levels of students in one environment that match the differentiated teaching. For the younger students, I can use the rubric simply as a checklist: did they meet that requirement? For the older students, the points allow me to get a little more specific with their grading: did they write good code that met the requirement?
-In a mixed environment, I try to be sensitive to the different developmental levels that are present in one space. With the younger students, they might not be at a level where they can think in a more abstract way. This can lead to the students having difficulties evaluating the “goodness” of code. For example, a sixth grade student may understand that she needs to write a series of if/elif statements to evaluate a turn. However, she might not be able to discern on her own that you can use logical operators (and, or) to combine conditions to reduce the number of if/elif statements needed, or that putting this code into a function can give the program a better structure. An eighth grader is in a better place developmentally to be able to discern this on his own. Having a mixed rubric means I can address this without having completely separate assignments.
+In a mixed environment, I try to be sensitive to the different developmental levels that are present in one space. With the younger students, they might not be at a level where they can think in a more abstract way. This can lead to the students having difficulties evaluating the "goodness" of code. For example, a sixth grade student may understand that she needs to write a series of if/elif statements to evaluate a turn. However, she might not be able to discern on her own that you can use logical operators (and, or) to combine conditions to reduce the number of if/elif statements needed, or that putting this code into a function can give the program a better structure. An eighth grader is in a better place developmentally to be able to discern this on his own. Having a mixed rubric means I can address this without having completely separate assignments.
 
 {pagebreak}
 
