@@ -28,13 +28,20 @@ SCISSORS = 2
 keep_going = True
 
 def displayWelome():
+    rules = "Rules: rock beats scissors, "
+    rules += "scissors beats paper, "
+    rules += "paper beats rock"
+
     print(banner)
     print()
-    print("Rules: rock beats scissors, scissors beats paper, paper beats rock")
+    print(rules)
     print()
 
 def getUserChoice():
-    user = int(input("Please enter your choice (0 for rock, 1 for paper, 2 for scissors): "))
+    prompt = "Please enter your choice "
+    prompt += "(0 for rock, 1 for paper, 2 for scissors): "
+
+    user = int(input(prompt))
 
     while user not in [0, 1, 2]:
         user = int(input("Please enter a valid choice: "))
@@ -45,7 +52,8 @@ def getCompChoice():
     return random.randint(0, 2)
 
 def evaluteTurn(user, comp):
-    # Returns True if the user wins, False if it's a tie or the user loses
+    # Returns True if the user wins,
+    # False if it's a tie or the user loses
     if user == ROCK:
         print("You guessed rock,", end=" ")
     elif user == PAPER:
@@ -84,4 +92,8 @@ while keep_going:
     elif result == 2:
         print("You've lost...")
 
-    keep_going = input("Would you like to play again? (yes or no): ").lower().startswith("y")
+    prompt = "Would you like to play again? "
+    prompt += "(yes or no): "
+
+    keep_going = input(prompt)
+    keep_going = keep_going.lower().startswith("y")
