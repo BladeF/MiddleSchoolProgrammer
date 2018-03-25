@@ -53,7 +53,7 @@ else:
 
 *Sample Questions*
 
-* "Cross the line if…"
+* "Cross the line if..."
   - "You are wearing blue today."
   - "You are not wearing sandals."
   - "You have younger and older siblings."
@@ -76,7 +76,7 @@ Recall & Review:
 3. Explain the rules of the game (students will cross the line if they can answer yes to your question), demonstrating once or twice.
 4. Play through several rounds of the line game. It can be fun to let one of the kids run the game after a few rounds and they have a better understanding of how it works.
 5. Come back to the classroom and write/display the if code example on the board.
-6. Tell the students that the questions were conditions that could be ____true or false____. If they answered yes, then the condition is true. For the example on the board, the question is "Is today Saturday?" and is written in code as today == "Saturday".
+6. Tell the students that the questions were conditions that could be ____true or false____. If they answered yes, then the condition is true. For the example on the board, the question is "Is today Saturday?" and is written in code as `today == "Saturday"`.
 7. Explain that if statements are used when you are looking for ____one thing that may or may not happen____ and only run when ____the condition is true____. In the example, if the day is Saturday, print out the message. If it is not Saturday, do nothing. This is exactly like the line game, where they didn't cross the line if they answered no.
 8. Next, show the if/else example.
 9. Explain that sometimes you ____always want something to happen____. You will pick ____one of two options____, but something will always happen. ____If____ the condition is true, you will run the code in the if statement. For everything ____else____, the code in the else branch will run. In the example, if the number is even (num MOD 2 will give you a result of 0 or 1, with 0 being even and 1 odd) you will print the message "the number is even". If a number is not even, it must be odd, so you will print the message "the number is odd". If/else if use ____when you are looking for one of two options____ and ____always want something to happen____.
