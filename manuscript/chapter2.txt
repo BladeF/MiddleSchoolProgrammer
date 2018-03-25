@@ -26,44 +26,44 @@ Use the same concept for all assignments, and simply vary the difficulty. This i
 Use the same points for all levels. It can get very complicated very quickly if each grade has their own point amount for the same assignment. This can require you to have multiple gradebooks, which may or may not be possible, and other such difficulties. Keeping all assignments at the same points make the overall processes much smoother. An argument can be made for more points for more difficulty, which is why these are simply encouragements and not rules.
 Finally, allow students to challenge themselves. If you have a truly exceptional sixth grader who eats up the content like candy and understands it all, allow him or her to try the harder levels. I discourage the opposite, allowing higher level students to do the easier assignments, with one exception. If you have a student with a learning disability that impacts his or her performance in your class, this is a potential accommodation to help that student succeed in your class.
 
-### Content
+## Content
 Let’s talk about the content itself. This is where the new programmer might struggle, so bear with me until the section on getting started. Read this chapter, read the getting started section, and then come back and read this again. For the programming-savvy new teacher, pay close attention here. The content is one of two things that will make or break your students, with your teaching being the other. There are two major components to building content: language and relatability.
 
-#### Language
+### Language
 Ask one hundred programmers which programming language you should learn first and why, and you will probably get one hundred different answers. This is somewhat a holy war for the programming world, with every camp dead convinced that they are correct. For the middle school teacher, however, there are definitely some good and bad options.
 I would say to never teach a middle school class in a compiled language. This includes big names like Java, C, C++, C#, and more. This may have been what you were taught in college or what you worked with while in the industry, but I truly believe that it is beyond the ability of the average middle schooler. Never teach something simply because it is what you know; always take the time to learn what's best for the students.
 Personally, I find scripting languages and block-based languages to work the best. I teach most of my classes using Python and Scratch. You can easily substitute Python for Ruby or JavaScript, and Scratch with another block-based language. When looking at languages, try and look for features that are fun for kids. I use Python because of the Turtle and PyGame modules, and Scratch because of the wide features available to create a plethora of projects. If you would like some more guidance in this area, check out appendix A for ideas.
 
-#### Relatability
+### Relatability
 Most middle schoolers take programming because they want to make video games, websites, phone apps, or really anything that they interact with daily. With this in mind, I always try to make my classes relatable for the students. This usually happens with the assignments and projects, but also with my explanations of things. I remember being in college and taking the first year and a half of computer science courses, thinking, "I didn't sign up for this. When will I actually start making things?" Now I truly appreciate those first few courses, as they gave me a very solid foundation for adult computer science. Kids don't want to do drudge work. Do your best to make it relatable to what they see and work with every day.
 
-#### Fun-ness
+### Fun-ness
 In the same vein as relatability, students want to have fun. Programming can be an amazing thing to learn, and they can have fun doing it. When doing in class examples, I usually give the students a few minutes to experiment with and tweak the program. Sometimes the students make truly monstrous things, but they have fun. They show off their programs to the class, and their peers cheer them on. I also try to make assignments fun. The first assignment I give to my Python students is they must make a MadLib. They write their stories on the homework sheet, figure out which words they want to have as blanks, and write the code. When the assignment is turned in, I take the next class period and let everyone show off their stories, with the entire class choosing the words for the blanks. Making the class fun gets the students more invested. I know that programming isn't always fun and that there will be some drudge work, but I always tell the students when it will be boring for a while, work through it together, and try to make the overall course as fun as I can.
 
-### Getting Started
+## Getting Started
 Now that you have some ideas for what to put in the meat of the course, let's talk about how to actually get the ball rolling and plan. This can sometimes be the most difficult part of the entire course, but clearly a necessary one. There are a few ways to start planning your course, with no one right way existing. Feel free to take in part, adapt, and/or completely disregard the following ideas. However, if you have absolutely no idea of where to start, start here.
 
-#### Use a book
+### Use a book
 There are hundreds of programming books out there on hundreds of topics for all ability levels. You can find a book on almost any topic you may want to learn or teach. This includes programming for kids, with No Starch books being my top choice[^fn12]. Starting with a book allows you to skip reinventing the wheel, move forward ten spaces, and collect a prize. Having a starting block and framework can alleviate some of the weight from your shoulders. So pick a book on your topic of choice, pass go, and move forward.
 
 [^fn12]: [https://nostarch.com](https://nostarch.com)
 
-#### Read everything
+### Read everything
 Once you have a book picked out, read it. Read the entire book, including introductions, forwards, prefaces, afterwards, and appendices. There is a surprising amount of information in these "extra" materials, and it gives you insight into the what and why the author had in mind while writing. Remember cold calling? These extras can also include ways to contact the author, which are great for cold calling and getting even more insight. While reading, complete every program and activity. As mentioned before, learn to code by writing code. Install the software. Jump on one foot. Do everything the book tells you to do.
 
-#### Pick and choose
+### Pick and choose
 Once you have finished the entire book and all the activities, you are now in a position of great understanding. Hopefully, you know what each chapter, activity, and program covers, why those activities and programs are there and have answer keys, expected problems, and potential questions all figured out. Now, you can pick and choose which of these programs and activities to use in your class. You probably won't have time to do them all, so pick the most relevant, illustrative, and/or fun ones. You can even adapt them, making tweaks to fit your teaching style. Nothing's carved in stone, so make these building blocks work for you.
 
-### Ending the class
+## Ending the class
 You've picked your language, read a book or five, made assignments for each grade, created the fun factors, and are ready to launch. Great! This is a wonderful feeling, and you should be excited. However, always keep the end in mind. There is a time for all things, and you should be aware of the end approaching and have some thoughts in mind about what you will do once the class ends. This often includes reflecting on how the previous term went and making modifications for the next time the class is offered.
 
-#### Reflection
+### Reflection
 As you are teaching the class, keep a journal. Do your best to make an entry after every class. Note what went well, what didn't go well, and anything else that you need to mark down to explain these two points. You always want to make next year better. Keeping track of these things will help you to improve your lessons and assignments. Trying to rationalize them will help you prepare for future circumstances. Was your class all honors students? That's something to note. Did you have a mainstreamed student or two in your class that you had to accommodate this time around? That's something to note. Get the students involved as well. Take the time to ask them what's going well and what's not, and have them explain why. After doing this for a few years, you will have a rather ample bank of experience to pull from and reference when different situations arise, and you will have greatly improved your course for your future students.
 
-#### Modification
+### Modification
 As you grow your journal, take the time to make modifications. This could be to future lessons, to assignments just turned in, and anything in between. It's great to be self-reflective and know what needs to change, but the follow-through is just as important. You can know that an assignment doesn't work or that the students aren't able to complete it, so change it. Make it better. A teacher can always improve, both himself or herself and the curriculum.
 
-#### Punctuality
+### Punctuality
 Do it now. There have been many times where I've had a great insight or something has failed miserably, and I didn't take the time to document and modify in a timely manner. By the time I went to do this, I had completely forgotten what happened and why. I sure did remember the next time I taught that lesson though! Save your future self some suffering and be as punctual as possible when going through this process. Even if you don't have time to make a full journal entry and modify the assignments right then and there, a sticky note or index card with some quick notes and a brief plan of action is better than nothing.
 
 Planning your curriculum is no easy task. You've thought about the content of your course, making it appropriate and fun, and how to improve it. Know that your creation is a major achievement, but also an ever-evolving one. As you learn more about your students and how to work with them, the finer details of your lessons may change. In the next leg of our hike, we will take a look at classroom management and structure, trying to create the best mental and physical environment for the students.
