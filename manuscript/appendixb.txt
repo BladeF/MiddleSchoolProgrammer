@@ -121,6 +121,9 @@ In a mixed environment, I try to be sensitive to the different developmental lev
 **Handout**
 
 ![Page 1](images/handout1.png)
+
+{pagebreak}
+
 ![Page 2](images/handout2.png)
 
 {pagebreak}
